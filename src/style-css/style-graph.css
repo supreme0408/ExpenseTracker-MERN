@@ -1,0 +1,9 @@
+.my-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: max-content;
+}
